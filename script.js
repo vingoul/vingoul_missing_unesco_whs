@@ -4,6 +4,12 @@ var json = [
         "values": ["AF-01 Minaret and Archaeological Remains of Jam (2002)", "AF-02 Cultural Landscape and Archaeological Remains of the Bamiyan Valley (2003)"]
     },
     {
+        "type": "Albania",
+        "values": ["AL-01 Natural and Cultural Heritage of the Ohrid region (1979)", 
+                   "AL-02 Butrint (1992)", "AL-03 Historic Centres of Berat and Gjirokastra (2005)", 
+                   "AL-04 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)"]
+    },
+    {
         "type": "MOTW",
         "values": ["Austria", "Costa Rica", "Canada", "UK", "Hong Kong", "Italy", "Finland", "Norway", "Spain", "Malaysia", "Japan", "Germany", "Czech Republic", "Taiwan", "China", "England", "Croatia", "Thailand", "UAE", "Sovereign Military Order Of Malta", "Poland", "Ukraine", "Armenia", "Portgual", "Latvia", "Turkey (Arranged)", "St Pierre and Miquelon", "Singapore", "Malta", "India (Arranged)", "Nepal", "Maldives", "Philippines", "Switzerland", "Slovenia", "Peru", "Belarus", "Bahamas", "Greece", "Hungary", "Ireland", "Cyprus", "Indonesia", "Pitcairn Islands", "San Marino", "Greenland", "Estonia", "Honduras", "Mozambique", "Denmark", "New Zealand ", "Israel", "USA (Arranged)", "France (Arranged)", "Nauru (Arranged)", "Mexico", "Egypt", "Macau"]
 
