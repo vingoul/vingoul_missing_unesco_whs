@@ -65,7 +65,8 @@ var json = [
                    "AU-05 Tasmanian Wilderness (1982)", 
                    "AU-06 Gondwana Rainforests of Australia (1986)", "AU-07 Uluru-Kata Tjuta National Park (1987)", 
                    "AU-08 Wet Tropics of Queensland (1988)", 
-                   "AU-09 Shark Bay, Western Australia (1991)", "AU-10 K’gari (Fraser Island) (1992)
+                   "AU-09 Shark Bay, Western Australia (1991)", 
+                   "AU-10 K’gari (Fraser Island) (1992)", 
                    "AU-11 Australian Fossil Mammal Sites (Riversleigh / Naracoorte) (1994)", 
                    "AU-12 Heard and McDonald Islands (1997)", 
                    "AU-13 Macquarie Island (1997)", 
