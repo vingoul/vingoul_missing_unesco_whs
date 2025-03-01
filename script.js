@@ -250,7 +250,7 @@ var json = [
 
 {
         "type": "Cambodia",
-        "values": ["KH-01 Angkor (1992)
+        "values": ["KH-01 Angkor (1992)",
                    "KH-02 Temple of Preah Vihear (2008)", 
                    "KH-03 Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura (2017)", 
                    "KH-04 Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar (2023)"]
@@ -442,7 +442,7 @@ var json = [
                    "HR-06 The Cathedral of St James in Šibenik (2000)", 
                    "HR-07 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)", 
                    "HR-08 Stari Grad Plain (2008)", 
-                   "HR-09 Stećci Medieval Tombstones Graveyards * (2016)", 
+                   "HR-09 Stećci Medieval Tombstones Graveyards (2016)", 
                    "HR-10 Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar (2017)"]
 },
 
@@ -672,8 +672,7 @@ var json = [
                    "FR-47 Cordouan Lighthouse (2021)", 
                    "FR-48 Nice, Winter Resort Town of the Riviera (2021)", 
                    "FR-49 The Great Spa Towns of Europe (2021)", 
-                   "FR-50 Funerary and memory sites of the First World War (Western Front)
- (2023)", 
+                   "FR-50 Funerary and memory sites of the First World War (Western Front) (2023)", 
                    "FR-51 The Maison Carrée of Nîmes (2023)", 
                    "FR-52 Volcanoes and Forests of Mount Pelée and the Pitons of Northern Martinique (2023)", 
                    "FR-53 Te Henua Enata – The Marquesas Islands (2024)"]
@@ -2020,8 +2019,7 @@ var json = [
                    "TH-04 Ban Chiang Archaeological Site (1992)", 
                    "TH-05 Dong Phayayen-Khao Yai Forest Complex (2005)", 
                    "TH-06 Kaeng Krachan Forest Complex (2021)", 
-                   "TH-07 The Ancient Town of Si Thep and its Associated Dvaravati Monuments
- (2023)", 
+                   "TH-07 The Ancient Town of Si Thep and its Associated Dvaravati Monuments (2023)", 
                    "TH-08 Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period (2024)"]
 },
 
@@ -2089,9 +2087,9 @@ var json = [
 
 {
         "type": "Uganda",
-        "values": ["UG-01 Bwindi Impenetrable National Park (1994)
-UG-02 Rwenzori Mountains National Park (1994)
-UG-03 Tombs of Buganda Kings at Kasubi (2001)"]
+        "values": ["UG-01 Bwindi Impenetrable National Park (1994)",
+                   "UG-02 Rwenzori Mountains National Park (1994)", 
+                   "UG-03 Tombs of Buganda Kings at Kasubi (2001)"]
 },
 
 
