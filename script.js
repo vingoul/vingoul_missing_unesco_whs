@@ -107,19 +107,16 @@ var json = [
                    "BH-02 Pearling, Testimony of an Island Economy (2012)", 
                    "BH-03 Dilmun Burial Mounds (2019)"]
  },
-
 {
         "type": "Bangladesh",
         "values": ["BD-01 Historic Mosque City of Bagerhat (1985)", 
                    "BD-02 Ruins of the Buddhist Vihara at Paharpur (1985)", 
                    "BD-03 The Sundarbans (1997)"]    
 },
-
 {
         "type": "Barbados",
         "values": ["BB-01 Historic Bridgetown and its Garrison (2011)"]
 },
-
 {
         "type": "Belarus",
         "values": ["BY-01 Białowieża Forest (1979)", 
@@ -127,7 +124,6 @@ var json = [
                    "BY-03 Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh (2005)", 
                    "BY-04 Struve Geodetic Arc (2005)"]
  },
-
 {
         "type": "Belgium",
         "values": ["BE-01 Flemish Béguinages (1998)", 
@@ -147,12 +143,10 @@ var json = [
                    "BE-15 The Great Spa Towns of Europe (2021)", 
                    "BE-16 Funerary and memory sites of the First World War (Western Front) (2023)"]
 },
-
 {
         "type": "Belize",
         "values": ["BZ-01 Belize Barrier Reef Reserve System (1996)"]
  },
-
 {
         "type": "Benin",
         "values": ["BJ-01 Royal Palaces of Abomey (1985)", 
@@ -168,8 +162,6 @@ var json = [
                    "BO-06 Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture (2000)", 
                    "BO-07 Qhapaq Ñan, Andean Road System (2014)"]
 },
-
-
 {
         "type": "Bosnia and Herzegovina",
         "values": ["BA-01 Old Bridge Area of the Old City of Mostar (2005)", 
@@ -178,15 +170,11 @@ var json = [
                    "BA-04 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2021)", 
                    "BA-05 Vjetrenica Cave, Ravno (2024)"]
 },
-
-
 {
         "type": "Botswana",
         "values": ["BW-01 Tsodilo (2001)", 
                    "BW-02 Okavango Delta (2014)"]
 },
-
-
 {
         "type": "Brazil",
         "values": ["BR-01 Historic Town of Ouro Preto (1980)", 
@@ -214,8 +202,6 @@ var json = [
                    "BR-23 Sítio Roberto Burle Marx (2021)", 
                    "BR-24 Lençóis Maranhenses National Park (2024)"]
 },
-
-
 {
         "type": "Bulgaria",
         "values": ["BG-01 Boyana Church (1979)", 
@@ -229,8 +215,6 @@ var json = [
                    "BG-09 Thracian Tomb of Sveshtari (1985)", 
                    "BG-10 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)"]
 },
-
-
 {
         "type": "Burkina Faso",
         "values": ["BF-01 W-Arly-Pendjari Complex (1996)", 
@@ -238,16 +222,10 @@ var json = [
                    "BF-03 Ancient Ferrous Metallurgy Sites of Burkina Faso (2019)", 
                    "BF-04 Royal Court of Tiébélé (2024)"]
 },
-
-
-
 {
         "type": "Cabo Verde",
         "values": ["CV-01 Cidade Velha, Historic Centre of Ribeira Grande (2009)"]
 },
-
-
-
 {
         "type": "Cambodia",
         "values": ["KH-01 Angkor (1992)",
@@ -255,17 +233,11 @@ var json = [
                    "KH-03 Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura (2017)", 
                    "KH-04 Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar (2023)"]
 },
-
-
-
 {
         "type": "Cameroon",
         "values": ["CM-01 Dja Faunal Reserve (1987)", 
                    "CM-02 Sangha Trinational (2012)"]
 },
-
-
-
 {
         "type": "Canada",
         "values": ["CA-01 L’Anse aux Meadows National Historic Site (1978)", 
@@ -291,25 +263,16 @@ var json = [
                    "CA-21 Anticosti (2023)", 
                    "CA-22 Tr’ondëk-Klondike (2023)"]
 },
-
-
-
 {
         "type": "Central African Republic",
         "values": ["CF-01 Manovo-Gounda St Floris National Park (1988)", 
                    "CF-02 Sangha Trinational (2012)"]
 },
-
-
-
 {
         "type": "Chad",
         "values": ["TD-01 Lakes of Ounianga (2012)", 
                    "TD-02 Ennedi Massif: Natural and Cultural Landscape (2016)"]
 },
-
-
-
 {
         "type": "Chile",
         "values": ["CL-01 Rapa Nui National Park (1995)", 
@@ -320,9 +283,6 @@ var json = [
                    "CL-06 Qhapaq Ñan, Andean Road System (2014)", 
                    "CL-07 Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region (2021)"]
 },
-
-
-
 {
         "type": "China",
         "values": ["CN-01 Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang (1987)", 
@@ -385,9 +345,6 @@ var json = [
                    "CN-58 Badain Jaran Desert - Towers of Sand and Lakes (2024)", 
                    "CN-59 Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital (2024)"]
 },
-
-
-
 {
         "type": "Colombia",
         "values": ["CO-01 Port, Fortresses and Group of Monuments, Cartagena (1984)", 
@@ -400,17 +357,11 @@ var json = [
                    "CO-08 Qhapaq Ñan, Andean Road System (2014)", 
                    "CO-09 Chiribiquete National Park – “The Maloca of the Jaguar” (2018)"]
 },
-
-
-
 {
         "type": "Congo",
         "values": ["CG-01 Sangha Trinational (2012)", 
                    "CG-02 Forest Massif of Odzala-Kokoua (2023)"]
 },
-
-
-
 {
         "type": "Costa Rica",
         "values": ["CR-01 Talamanca Range-La Amistad Reserves / La Amistad National Park (1983)", 
@@ -418,9 +369,6 @@ var json = [
                    "CR-03 Area de Conservación Guanacaste (1999)", 
                    "CR-04 Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís (2014)"]
 },
-
-
-
 {
         "type": "Côte d'Ivoire",
         "values": ["CI-01 Mount Nimba Strict Nature Reserve (1981)", 
@@ -429,9 +377,6 @@ var json = [
                    "CI-04 Historic Town of Grand-Bassam (2012)", 
                    "CI-05 Sudanese style mosques in northern Côte d’Ivoire (2021)"]
 },
-
-
-
 {
         "type": "Croatia",
         "values": ["HR-01 Historical Complex of Split with the Palace of Diocletian (1979)", 
@@ -445,9 +390,6 @@ var json = [
                    "HR-09 Stećci Medieval Tombstones Graveyards (2016)", 
                    "HR-10 Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar (2017)"]
 },
-
-
-
 {
         "type": "Cuba",
         "values": ["CU-01 Old Havana and its Fortification System (1982)", 
@@ -460,16 +402,12 @@ var json = [
                    "CU-08 Urban Historic Centre of Cienfuegos (2005)", 
                    "CU-09 Historic Centre of Camagüey (2008)"]
 },
-
-
 {
         "type": "Cyprus",
         "values": ["CY-01 Paphos (1980)", 
                    "CY-02 Painted Churches in the Troodos Region (1985)", 
                    "CY-03 Choirokoitia (1998)"]
 },
-
-
 {
         "type": "Czech Republic",
         "values": ["CZ-01 Historic Centre of Český Krumlov (1992)", 
@@ -490,15 +428,11 @@ var json = [
                    "CZ-16 The Great Spa Towns of Europe (2021)", 
                    "CZ-17 Žatec and the Landscape of Saaz Hops (2023)"]
 },
-
-
 {
         "type": "Democratic People's Republic of Korea",
         "values": ["KP-01 Complex of Koguryo Tombs (2004)", 
                    "KP-02 Historic Monuments and Sites in Kaesong (2013)"]
 },
-
-
 {
         "type": "Democratic Republic of the Congo",
         "values": ["CD-01 Virunga National Park (1979)", 
@@ -507,8 +441,6 @@ var json = [
                    "CD-04 Salonga National Park (1984)", 
                    "CD-05 Okapi Wildlife Reserve (1996)"]
 },
-
-
 {
         "type": "Denmark",
         "values": ["DK-01 Jelling Mounds, Runic Stones and Church (1994)", 
@@ -523,20 +455,14 @@ var json = [
                    "DK-10 Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea (2018)", 
                    "DK-11 Viking-Age Ring Fortresses (2023)"]
 },
-
-
 {
         "type": "Dominica",
         "values": ["DM-01 Morne Trois Pitons National Park (1997)"]
 },
-
-
 {
         "type": "Dominican Republic",
         "values": ["DO-01 Colonial City of Santo Domingo (1990)"]
 },
-
-
 {
         "type": "Ecuador",
         "values": ["EC-01 City of Quito (1978)", 
@@ -545,9 +471,6 @@ var json = [
                    "EC-04 Historic Centre of Santa Ana de los Ríos de Cuenca (1999)", 
                    "EC-05 Qhapaq Ñan, Andean Road System (2014)"]
 },
-
-
-
 {
         "type": "Egypt",
         "values": ["EG-01 Abu Mena (1979)", 
@@ -558,31 +481,19 @@ var json = [
                    "EG-06 Saint Catherine Area (2002)", 
                    "EG-07 Wadi Al-Hitan (Whale Valley) (2005)"]
 },
-
-
-
 {
         "type": "El Salvador",
         "values": ["SV-01 Joya de Cerén Archaeological Site (1993)"]
 },
-
-
-
 {
         "type": "Eritrea",
         "values": ["ER-01 Asmara: A Modernist African City (2017)"]
 },
-
-
-
 {
         "type": "Estonia",
         "values": ["EE-01 Historic Centre (Old Town) of Tallinn (1997)", 
                    "EE-02 Struve Geodetic Arc (2005)"]
 },
-
-
-
 {
         "type": "Ethiopia",
         "values": ["ET-01 Rock-Hewn Churches, Lalibela (1978)", 
@@ -598,16 +509,10 @@ var json = [
                    "ET-11 The Gedeo Cultural Landscape (2023)", 
                    "ET-12 Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia (2024)"]
 },
-
-
-
 {
         "type": "Fiji",
         "values": ["FJ-01 Levuka Historical Port Town (2013)"]
 },
-
-
-
 {
         "type": "Finland",
         "values": ["FI-01 Fortress of Suomenlinna (1991)", 
@@ -618,9 +523,6 @@ var json = [
                    "FI-06 High Coast / Kvarken Archipelago (2000)", 
                    "FI-07 Struve Geodetic Arc (2005)"]
 },
-
-
-
 {
         "type": "France",
         "values": ["FR-01 Chartres Cathedral (1979)", 
@@ -632,7 +534,7 @@ var json = [
                    "FR-07 Arles, Roman and Romanesque Monuments (1981)", 
                    "FR-08 Cistercian Abbey of Fontenay (1981)", 
                    "FR-09 Palace and Park of Fontainebleau (1981)", 
-                   "FR-10 Roman Theatre and its Surroundings and the "Triumphal Arch" of Orange (1981)", 
+                   "FR-10 Roman Theatre and its Surroundings and the Triumphal Arch of Orange (1981)", 
                    "FR-11 From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt (1982)", 
                    "FR-12 Abbey Church of Saint-Savin sur Gartempe (1983)", 
                    "FR-13 Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve (1983)", 
@@ -677,25 +579,16 @@ var json = [
                    "FR-52 Volcanoes and Forests of Mount Pelée and the Pitons of Northern Martinique (2023)", 
                    "FR-53 Te Henua Enata – The Marquesas Islands (2024)"]
 },
-
-
-
 {
         "type": "Gabon",
         "values": ["GA-01 Ecosystem and Relict Cultural Landscape of Lopé-Okanda (2007)", 
                    "GA-02 Ivindo National Park (2021)"]
 },
-
-
-
 {
         "type": "Gambia",
         "values": ["GM-01 Kunta Kinteh Island and Related Sites (2003)", 
                    "GM-02 Stone Circles of Senegambia (2006)"]
 },
-
-
-
 {
         "type": "Georgia",
         "values": ["GE-01 Bagrati Cathedral and Gelati Monastery (1994)", 
@@ -703,9 +596,6 @@ var json = [
                    "GE-03 Upper Svaneti (1996)", 
                    "GE-04 Colchic Rainforests and Wetlands (2021)"]
 },
-
-
-
 {
         "type": "Germany",
         "values": ["DE-01 Aachen Cathedral (1978)", 
@@ -764,17 +654,11 @@ var json = [
                    "DE-54 Moravian Church Settlement (2024)", 
                    "DE-55 Schwerin Residence Ensemble (2024)"]
 },
-
-
-
 {
         "type": "Ghana",
         "values": ["GH-01 Forts and Castles, Volta, Greater Accra, Central and Western Regions (1979)", 
                    "GH-02 Asante Traditional Buildings (1980)"]
 },
-
-
-
 {
         "type": "Greece",
         "values": ["GR-01 Temple of Apollo Epicurius at Bassae (1986)", 
@@ -797,9 +681,6 @@ var json = [
                    "GR-18 Archaeological Site of Philippi (2016)", 
                    "GR-19 Zagori Cultural Landscape (2023)"]
 },
-
-
-
 {
         "type": "Guatemala",
         "values": ["GT-01 Antigua Guatemala (1979)", 
@@ -807,39 +688,24 @@ var json = [
                    "GT-03 Archaeological Park and Ruins of Quirigua (1981)", 
                    "GT-04 National Archaeological Park Tak’alik Ab’aj (2023)"]
 },
-
-
-
 {
         "type": "Guinea",
         "values": ["GN-01 Mount Nimba Strict Nature Reserve (1981)"]
 },
-
-
-
 {
         "type": "Haiti",
         "values": ["HT-01 National History Park – Citadel, Sans Souci, Ramiers (1982)"]
 },
-
-
-
 {
         "type": "Holy See",
         "values": ["HS-01 Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura (1980)", 
                    "HS-02 Vatican City (1984)"]
 },
-
-
-
 {
         "type": "Honduras",
         "values": ["HN-01 Maya Site of Copan (1980)", 
                    "HN-02 Río Plátano Biosphere Reserve (1982)"]
 },
-
-
-
 {
         "type": "Hungary",
         "values": ["HU-01 Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue (1987)", 
@@ -851,18 +717,12 @@ var json = [
                    "HU-07 Fertö / Neusiedlersee Cultural Landscape (2001)", 
                    "HU-08 Tokaj Wine Region Historic Cultural Landscape (2002)"]
 },
-
-
-
 {
         "type": "Iceland",
         "values": ["IS-01 Þingvellir National Park (2004)", 
                    "IS-02 Surtsey (2008)", 
                    "IS-03 Vatnajökull National Park - Dynamic Nature of Fire and Ice (2019)"]
 },
-
-
-
 {
         "type": "India",
         "values": ["IN-01 Agra Fort (1983)", 
@@ -909,9 +769,6 @@ var json = [
                    "IN-42 Santiniketan (2023)", 
                    "IN-43 Moidams – the Mound-Burial System of the Ahom Dynasty (2024)"]
 },
-
-
-
 {
         "type": "Indonesia",
         "values": ["ID-01 Borobudur Temple Compounds (1991)", 
@@ -923,12 +780,8 @@ var json = [
                    "ID-07 Tropical Rainforest Heritage of Sumatra (2004)", 
                    "ID-08 Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy (2012)", 
                    "ID-09 Ombilin Coal Mining Heritage of Sawahlunto (2019)", 
-                   "ID-10 The Cosmological Axis of Yogyakarta and its Historic Landmarks
- (2023)"]
+                   "ID-10 The Cosmological Axis of Yogyakarta and its Historic Landmarks (2023)"]
 },
-
-
-
 {
         "type": "Iran (Islamic Republic of)",
         "values": ["IR-01 Meidan Emam, Esfahan (1979)", 
@@ -960,9 +813,6 @@ var json = [
                    "IR-27 The Persian Caravanserai (2023)", 
                    "IR-28 Hegmataneh (2024)"]
 },
-
-
-
 {
         "type": "Iraq",
         "values": ["IQ-01 Hatra (1985)", 
@@ -972,9 +822,6 @@ var json = [
                    "IQ-05 The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities (2016)", 
                    "IQ-06 Babylon (2019)"]
 },
-
-
-
 {
         "type": "Ireland",
         "values": ["IE-01 Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne (1993)", 
@@ -995,13 +842,10 @@ var json = [
                    "IL-08 Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves (2014)", 
                    "IL-09 Necropolis of Bet She’arim: A Landmark of Jewish Renewal (2015)"]
 },
-
-
-
 {
         "type": "Italy",
         "values": ["IT-01 Rock Drawings in Valcamonica (1979)", 
-                   "IT-02 Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci (1980)", 
+                   "IT-02 Church and Dominican Convent of Santa Maria delle Grazie with The Last Supper by Leonardo da Vinci (1980)", 
                    "IT-03 Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura (1980)", 
                    "IT-04 Historic Centre of Florence (1982)", 
                    "IT-05 Piazza del Duomo, Pisa (1987)", 
@@ -1061,16 +905,10 @@ var json = [
                    "IT-59 Evaporitic Karst and Caves of Northern Apennines (2023)", 
                    "IT-60 Via Appia. Regina Viarum (2024)"]
 },
-
-
-
 {
         "type": "Jamaica",
         "values": ["JM-01 Blue and John Crow Mountains (2015)"]
 },
-
-
-
 {
         "type": "Japan",
         "values": ["JP-01 Buddhist Monuments in the Horyu-ji Area (1993)", 
@@ -1100,29 +938,20 @@ var json = [
                    "JP-25 Jomon Prehistoric Sites in Northern Japan (2021)", 
                    "JP-26 Sado Island Gold Mines (2024)"]
 },
-
-
-
 {
         "type": "Jerusalem (Site proposed by Jordan)",
         "values": ["JE-01 Old City of Jerusalem and its Walls (1981)"]
 },
-
-
-
 {
         "type": "Jordan",
         "values": ["JO-01 Petra (1985)", 
                    "JO-02 Quseir Amra (1985)", 
                    "JO-03 Um er-Rasas (Kastrom Mefa'a) (2004)", 
                    "JO-04 Wadi Rum Protected Area (2011)", 
-                   "JO-05 Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (2015)", 
+                   "JO-05 Baptism Site Bethany Beyond the Jordan (Al-Maghtas) (2015)", 
                    "JO-06 As-Salt - The Place of Tolerance and Urban Hospitality (2021)", 
                    "JO-07 Umm Al-Jimāl (2024)"]
 },
-
-
-
 {
         "type": "Kazakhstan",
         "values": ["KZ-01 Mausoleum of Khoja Ahmed Yasawi (2003)", 
@@ -1132,9 +961,6 @@ var json = [
                    "KZ-05 Western Tien-Shan (2016)", 
                    "KZ-06 Cold Winter Deserts of Turan (2023)"]
 },
-
-
-
 {
         "type": "Kenya",
         "values": ["KE-01 Lake Turkana National Parks (1997)", 
@@ -1146,9 +972,6 @@ var json = [
                    "KE-07 Thimlich Ohinga Archaeological Site (2018)", 
                    "KE-08 The Historic Town and Archaeological Site of Gedi (2024)"]
 },
-
-
-
 {
         "type": "Kiribati",
         "values": ["KI-01 Phoenix Islands Protected Area (2010)"]
@@ -1162,27 +985,18 @@ var json = [
                    "KG-02 Silk Roads: the Routes Network of Chang'an-Tianshan Corridor (2014)", 
                    "KG-03 Western Tien-Shan (2016)"]
 },
-
-
-
 {
         "type": "Lao People's Democratic Republic",
         "values": ["LA-01 Town of Luang Prabang (1995)", 
                    "LA-02 Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape (2001)", 
                    "LA-03 Megalithic Jar Sites in Xiengkhuang – Plain of Jars (2019)"]
 },
-
-
-
 {
         "type": "Latvia",
         "values": ["LV-01 Historic Centre of Riga (1997)", 
                    "LV-02 Struve Geodetic Arc (2005)", 
                    "LV-03 Old town of Kuldīga (2023)"]
 },
-
-
-
 {
         "type": "Lebanon",
         "values": ["LB-01 Anjar (1984)", 
@@ -1192,16 +1006,10 @@ var json = [
                    "LB-05 Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab) (1998)", 
                    "LB-06 Rachid Karami International Fair-Tripoli (2023)"]
 },
-
-
-
 {
         "type": "Lesotho",
         "values": ["LS-01 Maloti-Drakensberg Park (2000)"]
 },
-
-
-
 {
         "type": "Libya",
         "values": ["LY-01 Archaeological Site of Cyrene (1982)", 
@@ -1210,9 +1018,6 @@ var json = [
                    "LY-04 Rock-Art Sites of Tadrart Acacus (1985)", 
                    "LY-05 Old Town of Ghadamès (1986)"]
 },
-
-
-
 {
         "type": "Lithuania",
         "values": ["LT-01 Vilnius Historic Centre (1994)", 
@@ -1221,33 +1026,21 @@ var json = [
                    "LT-04 Struve Geodetic Arc (2005)", 
                    "LT-05 Modernist Kaunas: Architecture of Optimism, 1919-1939 (2023)"]
 },
-
-
-
 {
         "type": "Luxembourg",
         "values": ["LU-01 City of Luxembourg: its Old Quarters and Fortifications (1994)"]
 },
-
-
-
 {
         "type": "Madagascar",
         "values": ["MG-01 Andrefana Dry Forests (1990)", 
                    "MG-02 Royal Hill of Ambohimanga (2001)", 
                    "MG-03 Rainforests of the Atsinanana (2007)"]
 },
-
-
-
 {
         "type": "Malawi",
         "values": ["MW-01 Lake Malawi National Park (1984)", 
                    "MW-02 Chongoni Rock-Art Area (2006)"]
 },
-
-
-
 {
         "type": "Malaysia",
         "values": ["MY-01 Gunung Mulu National Park (2000)", 
@@ -1256,9 +1049,6 @@ var json = [
                    "MY-04 Archaeological Heritage of the Lenggong Valley (2012)", 
                    "MY-05 The Archaeological Heritage of Niah National Park’s Caves Complex (2024)"]
 },
-
-
-
 {
         "type": "Mali",
         "values": ["ML-01 Old Towns of Djenné (1988)", 
@@ -1266,41 +1056,26 @@ var json = [
                    "ML-03 Cliff of Bandiagara (Land of the Dogons) (1989)", 
                    "ML-04 Tomb of Askia (2004)"]
 },
-
-
-
 {
         "type": "Malta",
         "values": ["MT-01 City of Valletta (1980)", 
                    "MT-02 Megalithic Temples of Malta (1980)", 
                    "MT-03 Ħal Saflieni Hypogeum (1980)"]
 },
-
-
-
 {
         "type": "Marshall Islands",
         "values": ["MH-01 Bikini Atoll Nuclear Test Site (2010)"]
 },
-
-
-
 {
         "type": "Mauritania",
         "values": ["MR-01 Banc d'Arguin National Park (1989)", 
                    "MR-02 Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata (1996)"]
 },
-
-
-
 {
         "type": "Mauritius",
         "values": ["MU-01 Aapravasi Ghat (2006)", 
                    "MU-02 Le Morne Cultural Landscape (2008)"]
 },
-
-
-
 {
         "type": "Mexico",
         "values": ["MX-01 Historic Centre of Mexico City and Xochimilco (1987)", 
@@ -1339,16 +1114,10 @@ var json = [
                    "MX-34 Archipiélago de Revillagigedo (2016)", 
                    "MX-35 Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica (2018)"]
 },
-
-
-
 {
         "type": "Micronesia (Federated States of)",
         "values": ["FM-01 Nan Madol: Ceremonial Centre of Eastern Micronesia (2016)"]
 },
-
-
-
 {
         "type": "Mongolia",
         "values": ["MN-01 Uvs Nuur Basin (2003)", 
@@ -1358,9 +1127,6 @@ var json = [
                    "MN-05 Landscapes of Dauria (2017)", 
                    "MN-06 Deer Stone Monuments and Related Bronze Age Sites (2023)"]
 },
-
-
-
 {
         "type": "Montenegro",
         "values": ["ME-01 Natural and Culturo-Historical Region of Kotor (1979)", 
@@ -1368,9 +1134,6 @@ var json = [
                    "ME-03 Stećci Medieval Tombstones Graveyards (2016)", 
                    "ME-04 Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar (2017)"]
 },
-
-
-
 {
         "type": "Morocco",
         "values": ["MA-01 Medina of Fez (1981)", 
@@ -1383,24 +1146,15 @@ var json = [
                    "MA-08 Portuguese City of Mazagan (El Jadida) (2004)", 
                    "MA-09 Rabat, Modern Capital and Historic City: a Shared Heritage (2012)"]
 },
-
-
-
 {
         "type": "Mozambique",
         "values": ["MZ-01 Island of Mozambique (1991)"]
 },
-
-
-
 {
         "type": "Myanmar",
         "values": ["MM-01 Pyu Ancient Cities (2014)", 
                    "MM-02 Bagan (2019)"]
 },
-
-
-
 {
         "type": "Namibia",
         "values": ["NA-01 Twyfelfontein or /Ui-//aes (2007)", 
