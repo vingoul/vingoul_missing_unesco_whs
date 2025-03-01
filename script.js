@@ -151,7 +151,8 @@ var json = [
         "type": "Benin",
         "values": ["BJ-01 Royal Palaces of Abomey (1985)", 
                    "BJ-02 W-Arly-Pendjari Complex (1996)", 
-                   "BJ-03 Koutammakou, the Land of the Batammariba (2023)", 
+                   "BJ-03 Koutammakou, the Land of the Batammariba (2023)"]
+ }, 
 {
         "type": "Bolivia",
         "values": ["BO-01 City of Potosí (1987)", 
@@ -159,7 +160,7 @@ var json = [
                    "BO-03 Historic City of Sucre (1991)", 
                    "BO-04 Fuerte de Samaipata (1998)", 
                    "BO-05 Noel Kempff Mercado National Park (2000)", 
-                   "BO-06 Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture (2000)", 
+                   "BO-06 Tiwanaku Spiritual and Political Centre of the Tiwanaku Culture (2000)", 
                    "BO-07 Qhapaq Ñan, Andean Road System (2014)"]
 },
 {
@@ -168,11 +169,11 @@ var json = [
                    "BA-02 Mehmed Paša Sokolović Bridge in Višegrad (2007)", 
                    "BA-03 Stećci Medieval Tombstones Graveyards (2016)", 
                    "BA-04 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2021)", 
-                   "BA-05 Vjetrenica Cave, Ravno (2024)"]
+                   "BA-05 Vjetrenica Cave Ravno (2024)"]
 },
 {
         "type": "Botswana",
-        "values": ["BW-01 Tsodilo (2001)", 
+        "values": ["BW-01 Tsodilo (2001)",
                    "BW-02 Okavango Delta (2014)"]
 },
 {
@@ -198,13 +199,13 @@ var json = [
                    "BR-19 Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea (2012)", 
                    "BR-20 Pampulha Modern Ensemble (2016)", 
                    "BR-21 Valongo Wharf Archaeological Site (2017)", 
-                   "BR-22 Paraty and Ilha Grande – Culture and Biodiversity (2019)", 
+                   "BR-22 Paraty and Ilha Grande  Culture and Biodiversity (2019)", 
                    "BR-23 Sítio Roberto Burle Marx (2021)", 
                    "BR-24 Lençóis Maranhenses National Park (2024)"]
 },
 {
         "type": "Bulgaria",
-        "values": ["BG-01 Boyana Church (1979)", 
+        "values": ["BG-01 Boyana Church (1979)",
                    "BG-02 Madara Rider (1979)", 
                    "BG-03 Rock-Hewn Churches of Ivanovo (1979)", 
                    "BG-04 Thracian Tomb of Kazanlak (1979)", 
@@ -217,7 +218,7 @@ var json = [
 },
 {
         "type": "Burkina Faso",
-        "values": ["BF-01 W-Arly-Pendjari Complex (1996)", 
+        "values": ["BF-01 W-Arly-Pendjari Complex (1996)",
                    "BF-02 Ruins of Loropéni (2009)", 
                    "BF-03 Ancient Ferrous Metallurgy Sites of Burkina Faso (2019)", 
                    "BF-04 Royal Court of Tiébélé (2024)"]
@@ -243,7 +244,7 @@ var json = [
         "values": ["CA-01 L’Anse aux Meadows National Historic Site (1978)", 
                    "CA-02 Nahanni National Park (1978)", 
                    "CA-03 Dinosaur Provincial Park (1979)", 
-                   "CA-04 Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek (1979)", 
+                   "CA-04 Kluane  Wrangell-St. Elias  Glacier Bay  Tatshenshini-Alsek (1979)", 
                    "CA-05 Head-Smashed-In Buffalo Jump (1981)", 
                    "CA-06 SGang Gwaay (1981)", 
                    "CA-07 Wood Buffalo National Park (1983)", 
@@ -342,7 +343,7 @@ var json = [
                    "CN-55 Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I) (2019)", 
                    "CN-56 Quanzhou: Emporium of the World in Song-Yuan China (2021)", 
                    "CN-57 Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er (2023)", 
-                   "CN-58 Badain Jaran Desert - Towers of Sand and Lakes (2024)", 
+                   "CN-58 Badain Jaran Desert - Towers of Sand and Lakes (2024)",
                    "CN-59 Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital (2024)"]
 },
 {
@@ -371,7 +372,7 @@ var json = [
 },
 {
         "type": "Côte d'Ivoire",
-        "values": ["CI-01 Mount Nimba Strict Nature Reserve (1981)", 
+        "values": ["CI-01 Mount Nimba Strict Nature Reserve (1981)",
                    "CI-02 Taï National Park (1982)", 
                    "CI-03 Comoé National Park (1983)", 
                    "CI-04 Historic Town of Grand-Bassam (2012)", 
@@ -410,7 +411,7 @@ var json = [
 },
 {
         "type": "Czech Republic",
-        "values": ["CZ-01 Historic Centre of Český Krumlov (1992)", 
+        "values": ["CZ-01 Historic Centre of Český Krumlov (1992)",
                    "CZ-02 Historic Centre of Prague (1992)", 
                    "CZ-03 Historic Centre of Telč (1992)", 
                    "CZ-04 Pilgrimage Church of St John of Nepomuk at Zelená Hora (1994)", 
@@ -435,7 +436,7 @@ var json = [
 },
 {
         "type": "Democratic Republic of the Congo",
-        "values": ["CD-01 Virunga National Park (1979)", 
+        "values": ["CD-01 Virunga National Park (1979)",
                    "CD-02 Kahuzi-Biega National Park (1980)", 
                    "CD-03 Garamba National Park (1980)", 
                    "CD-04 Salonga National Park (1984)", 
@@ -525,7 +526,7 @@ var json = [
 },
 {
         "type": "France",
-        "values": ["FR-01 Chartres Cathedral (1979)", 
+        "values": ["FR-01 Chartres Cathedral (1979)",  
                    "FR-02 Mont-Saint-Michel and its Bay (1979)", 
                    "FR-03 Palace and Park of Versailles (1979)", 
                    "FR-04 Prehistoric Sites and Decorated Caves of the Vézère Valley (1979)", 
