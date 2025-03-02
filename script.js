@@ -1222,6 +1222,198 @@ var json = [
                    "NO-07 West Norwegian Fjords – Geirangerfjord and Nærøyfjord (2005)", 
                    "NO-08 Rjukan-Notodden Industrial Heritage Site (2015)"]
 },
+{
+        "type": "Oman",
+        "values": ["OM-01 Bahla Fort (1987)", 
+                   "OM-02 Archaeological Sites of Bat, Al-Khutm and Al-Ayn (1988)", 
+                   "OM-03 Arabian Oryx Sanctuary Delisted 2007 (1994)", 
+                   "OM-04 Land of Frankincense (2000)", 
+                   "OM-05 Aflaj Irrigation Systems of Oman (2006)", 
+                   "OM-06 Ancient City of Qalhat (2018)"]
+},
+{
+        "type": "Pakistan",
+        "values": ["PK-01 Archaeological Ruins at Moenjodaro (1980)", 
+                   "PK-02 Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol (1980)", 
+                   "PK-03 Taxila (1980)", 
+                   "PK-04 Fort and Shalamar Gardens in Lahore (1981)", 
+                   "PK-05 Historical Monuments at Makli, Thatta (1981)", 
+                   "PK-06 Rohtas Fort (1997)"]
+},
+{
+        "type": "Palau",
+        "values": ["PW-01 Rock Islands Southern Lagoon (2012)"]
+},
+{
+        "type": "Palestine",
+        "values": ["PS-01 Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem (2012)", 
+                   "PS-02 Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir (2014)", 
+                   "PS-03 Hebron/Al-Khalil Old Town (2017)", 
+                   "PS-04 Ancient Jericho/Tell es-Sultan (2023)", 
+                   "PS-05 Saint Hilarion Monastery/ Tell Umm Amer (2024)"]
+},
+{
+        "type": "Panama",
+        "values": ["PA-01 Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo (1980)", 
+                   "PA-02 Darien National Park (1981)", 
+                   "PA-03 Talamanca Range-La Amistad Reserves / La Amistad National Park (1983)", 
+                   "PA-04 Archaeological Site of Panamá Viejo and Historic District of Panamá (1997)", 
+                   "PA-05 Coiba National Park and its Special Zone of Marine Protection (2005)"]
+},
+{
+        "type": "Papua New Guinea",
+        "values": ["PG-01 Kuk Early Agricultural Site (2008)"]
+},
+{
+        "type": "Paraguay",
+        "values": ["PY-01 Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue (1993)"]
+},
+{
+        "type": "Peru",
+        "values": ["PE-01 City of Cuzco (1983)", 
+                   "PE-02 Historic Sanctuary of Machu Picchu (1983)", 
+                   "PE-03 Chavin (Archaeological Site) (1985)", 
+                   "PE-04 Huascarán National Park (1985)", 
+                   "PE-05 Chan Chan Archaeological Zone (1986)", 
+                   "PE-06 Manú National Park (1987)", 
+                   "PE-07 Historic Centre of Lima (1988)", 
+                   "PE-08 Río Abiseo National Park (1990)", 
+                   "PE-09 Lines and Geoglyphs of Nasca and Pampas de Jumana (1994)", 
+                   "PE-10 Historical Centre of the City of Arequipa (2000)", 
+                   "PE-11 Sacred City of Caral-Supe (2009)", 
+                   "PE-12 Qhapaq Ñan, Andean Road System (2014)", 
+                   "PE-13 Chankillo Archaeoastronomical Complex (2021)"]
+},
+{
+        "type": "Philippines",
+        "values": ["PH-01 Baroque Churches of the Philippines (1993)", 
+                   "PH-02 Tubbataha Reefs Natural Park (1993)", 
+                   "PH-03 Rice Terraces of the Philippine Cordilleras (1995)", 
+                   "PH-04 Historic Town of Vigan (1999)", 
+                   "PH-05 Puerto-Princesa Subterranean River National Park (1999)", 
+                   "PH-06 Mount Hamiguitan Range Wildlife Sanctuary (2014)"]
+},
+{
+        "type": "Poland",
+        "values": ["PL-01 Historic Centre of Kraków (1978)", 
+                   "PL-02 Wieliczka and Bochnia Royal Salt Mines (1978)", 
+                   "PL-03 Auschwitz Birkenau  German Nazi Concentration and Extermination Camp (1940-1945) (1979)", 
+                   "PL-04 Białowieża Forest (1979)", 
+                   "PL-05 Historic Centre of Warsaw (1980)", 
+                   "PL-06 Old City of Zamość (1992)", 
+                   "PL-07 Castle of the Teutonic Order in Malbork (1997)", 
+                   "PL-08 Medieval Town of Toruń (1997)", 
+                   "PL-09 Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park (1999)", 
+                   "PL-10 Churches of Peace in Jawor and Świdnica (2001)", 
+                   "PL-11 Wooden Churches of Southern Małopolska (2003)", 
+                   "PL-12 Muskauer Park / Park Mużakowski (2004)", 
+                   "PL-13 Centennial Hall in Wrocław (2006)", 
+                   "PL-14 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)", 
+                   "PL-15 Wooden Tserkvas of the Carpathian Region in Poland and Ukraine (2013)", 
+                   "PL-16 Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System (2017)", 
+                   "PL-17 Krzemionki Prehistoric Striped Flint Mining Region (2019)"]
+},
+{
+        "type": "Portugal",
+        "values": ["PT-01 Central Zone of the Town of Angra do Heroismo in the Azores (1983)", 
+                   "PT-02 Convent of Christ in Tomar (1983)", 
+                   "PT-03 Monastery of Batalha (1983)", 
+                   "PT-04 Monastery of the Hieronymites and Tower of Belém in Lisbon (1983)", 
+                   "PT-05 Historic Centre of Évora (1986)", 
+                   "PT-06 Monastery of Alcobaça (1989)", 
+                   "PT-07 Cultural Landscape of Sintra (1995)", 
+                   "PT-08 Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar (1996)", 
+                   "PT-09 Prehistoric Rock Art Sites in the Côa Valley and Siega Verde (1998)", 
+                   "PT-10 Laurisilva of Madeira (1999)", 
+                   "PT-11 Alto Douro Wine Region (2001)", 
+                   "PT-12 Historic Centre of Guimarães and Couros Zone (2001)", 
+                   "PT-13 Landscape of the Pico Island Vineyard Culture (2004)", 
+                   "PT-14 Garrison Border Town of Elvas and its Fortifications (2012)", 
+                   "PT-15 University of Coimbra – Alta and Sofia (2013)", 
+                   "PT-16 Royal Building of Mafra – Palace, Basilica, Convent, Cerco Garden and Hunting Park (Tapada) (2019)", 
+                   "PT-17 Sanctuary of Bom Jesus do Monte in Braga (2019)"]
+},
+{
+        "type": "Qatar",
+        "values": ["QA-01 Al Zubarah Archaeological Site (2013)"]
+},
+{
+        "type": "Republic of Korea",
+        "values": ["KR-01 Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks (1995)",
+                   "KR-02 Jongmyo Shrine (1995)", 
+                   "KR-03 Seokguram Grotto and Bulguksa Temple (1995)", 
+                   "KR-04 Changdeokgung Palace Complex (1997)", 
+                   "KR-05 Hwaseong Fortress (1997)", 
+                   "KR-06 Gochang, Hwasun and Ganghwa Dolmen Sites (2000)", 
+                   "KR-07 Gyeongju Historic Areas (2000)", 
+                   "KR-08 Jeju Volcanic Island and Lava Tubes (2007)", 
+                   "KR-09 Royal Tombs of the Joseon Dynasty (2009)", 
+                   "KR-10 Historic Villages of Korea: Hahoe and Yangdong (2010)", 
+                   "KR-11 Namhansanseong (2014)", 
+                   "KR-12 Baekje Historic Areas (2015)", 
+                   "KR-13 Sansa, Buddhist Mountain Monasteries in Korea (2018)", 
+                   "KR-14 Seowon, Korean Neo-Confucian Academies (2019)", 
+                   "KR-15 Getbol, Korean Tidal Flats (2021)", 
+                   "KR-16 Gaya Tumuli (2023)"]
+},
+{
+        "type": "Republic of Moldova",
+        "values": ["MD-01 Struve Geodetic Arc (2005)"]
+},
+{
+        "type": "Romania",
+        "values": ["RO-01 Danube Delta (1991)", 
+                   "RO-02 Churches of Moldavia (1993)", 
+                   "RO-03 Monastery of Horezu (1993)", 
+                   "RO-04 Villages with Fortified Churches in Transylvania (1993)", 
+                   "RO-05 Dacian Fortresses of the Orastie Mountains (1999)", 
+                   "RO-06 Historic Centre of Sighişoara (1999)", 
+                   "RO-07 Wooden Churches of Maramureş (1999)", 
+                   "RO-08 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)", 
+                   "RO-09 Roșia Montană Mining Landscape (2021)", 
+                   "RO-10 Brâncuși Monumental Ensemble of Târgu Jiu (2024)", 
+                   "RO-11 Frontiers of the Roman Empire – Dacia (2024)"]
+},
+{
+        "type": "Russian Federation",
+        "values": ["RU-01 Historic Centre of Saint Petersburg and Related Groups of Monuments (1990)", 
+                   "RU-02 Kizhi Pogost (1990)", 
+                   "RU-03 Kremlin and Red Square, Moscow (1990)", 
+                   "RU-04 Cultural and Historic Ensemble of the Solovetsky Islands (1992)", 
+                   "RU-05 Historic Monuments of Novgorod and Surroundings (1992)", 
+                   "RU-06 White Monuments of Vladimir and Suzdal (1992)", 
+                   "RU-07 Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad (1993)", 
+                   "RU-08 Church of the Ascension, Kolomenskoye (1994)", 
+                   "RU-09 Virgin Komi Forests (1995)", 
+                   "RU-10 Lake Baikal (1996)", 
+                   "RU-11 Volcanoes of Kamchatka (1996)", 
+                   "RU-12 Golden Mountains of Altai (1998)", 
+                   "RU-13 Western Caucasus (1999)", 
+                   "RU-14 Curonian Spit (2000)", 
+                   "RU-15 Ensemble of the Ferapontov Monastery (2000)", 
+                   "RU-16 Historic and Architectural Complex of the Kazan Kremlin (2000)", 
+                   "RU-17 Central Sikhote-Alin (2001)", 
+                   "RU-18 Citadel, Ancient City and Fortress Buildings of Derbent (2003)", 
+                   "RU-19 Uvs Nuur Basin (2003)", 
+                   "RU-20 Ensemble of the Novodevichy Convent (2004)", 
+                   "RU-21 Natural System of Wrangel Island Reserve (2004)", 
+                   "RU-22 Historical Centre of the City of Yaroslavl (2005)", 
+                   "RU-23 Struve Geodetic Arc (2005)", 
+                   "RU-24 Putorana Plateau (2010)", 
+                   "RU-25 Lena Pillars Nature Park (2012)", 
+                   "RU-26 Bolgar Historical and Archaeological Complex (2014)", 
+                   "RU-27 Assumption Cathedral and Monastery of the town-island of Sviyazhsk (2017)", 
+                   "RU-28 Landscapes of Dauria (2017)", 
+                   "RU-29 Churches of the Pskov School of Architecture (2019)", 
+                   "RU-30 Petroglyphs of Lake Onega and the White Sea (2021)", 
+                   "RU-31 Astronomical Observatories of Kazan Federal University (2023)", 
+                   "RU-32 Cultural Landscape of Kenozero Lake (2024)"]
+},
+{
+        "type": "Rwanda",
+        "values": ["RW-01 Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero (2023)", 
+                   "RW-02 Nyungwe National Park (2023)"]
+},
 
 
 
