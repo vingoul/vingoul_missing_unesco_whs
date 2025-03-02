@@ -1628,6 +1628,221 @@ var json = [
                    "TJ-03 Silk Roads: Zarafshan-Karakum Corridor (2023)", 
                    "TJ-04 Tugay forests of the Tigrovaya Balka Nature Reserve (2023)"]
 },
+{
+        "type": "Thailand",
+        "values": ["TH-01 Historic City of Ayutthaya (1991)", 
+                   "TH-02 Historic Town of Sukhothai and Associated Historic Towns (1991)", 
+                   "TH-03 Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (1991)", 
+                   "TH-04 Ban Chiang Archaeological Site (1992)", 
+                   "TH-05 Dong Phayayen-Khao Yai Forest Complex (2005)", 
+                   "TH-06 Kaeng Krachan Forest Complex (2021)", 
+                   "TH-07 The Ancient Town of Si Thep and its Associated Dvaravati Monuments (2023)", 
+                   "TH-08 Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period (2024)"]
+},
+{
+        "type": "Togo",
+        "values": ["TG-01 Koutammakou, the Land of the Batammariba (2004)"]
+},
+{
+        "type": "Tunisia",
+        "values": ["TN-01 Amphitheatre of El Jem (1979)", 
+                   "TN-02 Archaeological Site of Carthage (1979)", 
+                   "TN-03 Medina of Tunis (1979)", 
+                   "TN-04 Ichkeul National Park (1980)", 
+                   "TN-05 Punic Town of Kerkuane and its Necropolis (1985)", 
+                   "TN-06 Kairouan (1988)", 
+                   "TN-07 Medina of Sousse (1988)", 
+                   "TN-08 Dougga / Thugga (1997)", 
+                   "TN-09 Djerba: Testimony to a settlement pattern in an island territory (2023)"]
+},
+{
+        "type": "Türkiye",
+        "values": [" TR-01 Göreme National Park and the Rock Sites of Cappadocia (1985)", 
+                   "TR-02 Great Mosque and Hospital of Divriği (1985)", 
+                   "TR-03 Historic Areas of Istanbul (1985)", 
+                   "TR-04 Hattusha: the Hittite Capital (1986)", 
+                   "TR-05 Nemrut Dağ (1987)", 
+                   "TR-06 Hierapolis-Pamukkale (1988)", 
+                   "TR-07 Xanthos-Letoon (1988)", 
+                   "TR-08 City of Safranbolu (1994)", 
+                   "TR-09 Archaeological Site of Troy (1998)", 
+                   "TR-10 Selimiye Mosque and its Social Complex (2011)", 
+                   "TR-11 Neolithic Site of Çatalhöyük (2012)", 
+                   "TR-12 Bursa and Cumalıkızık: the Birth of the Ottoman Empire (2014)", 
+                   "TR-13 Pergamon and its Multi-Layered Cultural Landscape (2014)", 
+                   "TR-14 Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (2015)", 
+                   "TR-15 Ephesus (2015)", 
+                   "TR-16 Archaeological Site of Ani (2016)", 
+                   "TR-17 Aphrodisias (2017)", 
+                   "TR-18 Göbekli Tepe (2018)", 
+                   "TR-19 Arslantepe Mound (2021)", 
+                   "TR-20 Gordion (2023)", 
+                   "TR-21 Wooden Hypostyle Mosques of Medieval Anatolia (2023)"]
+},
+{
+        "type": "Turkmenistan",
+        "values": ["TM-01 State Historical and Cultural Park “Ancient Merv” (1999)", 
+                   "TM-02 Kunya-Urgench (2005)", 
+                   "TM-03 Parthian Fortresses of Nisa (2007)", 
+                   "TM-04 Cold Winter Deserts of Turan (2023)", 
+                   "TM-05 Silk Roads: Zarafshan-Karakum Corridor (2023)"]
+},
+{
+        "type": "Uganda",
+        "values": ["UG-01 Bwindi Impenetrable National Park (1994)",
+                   "UG-02 Rwenzori Mountains National Park (1994)", 
+                   "UG-03 Tombs of Buganda Kings at Kasubi (2001)"]
+},
+{
+        "type": "Ukraine",
+        "values": ["UA-01 Kiev: Saint-Sophia Cathedral and Related Monastic Buildings, Kiev-Pechersk Lavra (1990)", 
+                   "UA-02 L'viv – the Ensemble of the Historic Centre (1998)", 
+                   "UA-03 Struve Geodetic Arc (2005)", 
+                   "UA-04 Primeval Beech Forests of the Carpathians and the Ancient Beech Forests of Germany (2007)", 
+                   "UA-05 Residence of Bukovinian and Dalmatian Metropolitans (2011)", 
+                   "UA-06 Ancient City of Tauric Chersonese and its Chora (2013)", 
+                   "UA-07 Wooden Tserkvas of the Carpathian Region in Poland and Ukraine (2013)", 
+                   "UA-08 The Historic Centre of Odesa (2023)"]
+},
+
+
+
+{
+        "type": "United Arab Emirates",
+        "values": [" AE-01 Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas) (2011)"]
+},
+{
+        "type": "United Kingdom of Great Britain and Northern Ireland",
+        "values": [" GB-01 Castles and Town Walls of King Edward in Gwynedd (1986)", 
+                   "GB-02 Durham Castle and Cathedral (1986)", 
+                   "GB-03 Giant's Causeway and Causeway Coast (1986)", 
+                   "GB-04 Ironbridge Gorge (1986)", 
+                   "GB-05 St Kilda (1986)", 
+                   "GB-06 Stonehenge, Avebury and Associated Sites (1986)", 
+                   "GB-07 Studley Royal Park including the Ruins of Fountains Abbey (1986)", 
+                   "GB-08 Blenheim Palace (1987)", 
+                   "GB-09 City of Bath (1987)", 
+                   "GB-10 Frontiers of the Roman Empire (1987)", 
+                   "GB-11 Palace of Westminster and Westminster Abbey including Saint Margaret’s Church (1987)", 
+                   "GB-12 Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church (1988)", 
+                   "GB-13 Henderson Island (1988)", 
+                   "GB-14 Tower of London (1988)", 
+                   "GB-15 Gough and Inaccessible Islands (1995)", 
+                   "GB-16 Old and New Towns of Edinburgh (1995)", 
+                   "GB-17 Maritime Greenwich (1997)", 
+                   "GB-18 Heart of Neolithic Orkney (1999)", 
+                   "GB-19 Blaenavon Industrial Landscape (2000)", 
+                   "GB-20 Historic Town of St George and Related Fortifications, Bermuda (2000)", 
+                   "GB-21 Derwent Valley Mills (2001)", 
+                   "GB-22 Dorset and East Devon Coast (2001)", 
+                   "GB-23 New Lanark (2001)", 
+                   "GB-24 Saltaire (2001)", 
+                   "GB-25 Royal Botanic Gardens, Kew (2003)", 
+                   "GB-26 Liverpool – Maritime Mercantile City Delisted 2021 (2004)", 
+                   "GB-27 Cornwall and West Devon Mining Landscape (2006)", 
+                   "GB-28 Pontcysyllte Aqueduct and Canal (2009)", 
+                   "GB-29 The Forth Bridge (2015)", 
+                   "GB-30 Gorham's Cave Complex (2016)", 
+                   "GB-31 The English Lake District (2017)", 
+                   "GB-32 Jodrell Bank Observatory (2019)", 
+                   "GB-33 The Great Spa Towns of Europe (2021)", 
+                   "GB-34 The Slate Landscape of Northwest Wales (2021)", 
+                   "GB-35 Moravian Church Settlement (2024)", 
+                   "GB-36 The Flow Country (2024)"]
+},
+{
+        "type": "United Republic of Tanzania",
+        "values": ["TZ-01 Ngorongoro Conservation Area 32 (1979)", 
+                   "TZ-02 Ruins of Kilwa Kisiwani and Ruins of Songo Mnara (1981)", 
+                   "TZ-03 Serengeti National Park (1981)", 
+                   "TZ-04 Selous Game Reserve (1982)", 
+                   "TZ-05 Kilimanjaro National Park (1987)", 
+                   "TZ-06 Stone Town of Zanzibar (2000)", 
+                   "TZ-07 Kondoa Rock-Art Sites (2006)"]
+},
+{
+        "type": "United States of America",
+        "values": [" US-01 Mesa Verde National Park (1978)", 
+                   "US-02 Yellowstone National Park (1978)", 
+                   "US-03 Everglades National Park (1979)", 
+                   "US-04 Grand Canyon National Park (1979)", 
+                   "US-05 Independence Hall (1979)", 
+                   "US-06 Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek (1979)", 
+                   "US-07 Redwood National and State Parks (1980)", 
+                   "US-08 Mammoth Cave National Park (1981)", 
+                   "US-09 Olympic National Park (1981)", 
+                   "US-10 Cahokia Mounds State Historic Site (1982)", 
+                   "US-11 Great Smoky Mountains National Park (1983)", 
+                   "US-12 La Fortaleza and San Juan National Historic Site in Puerto Rico (1983)", 
+                   "US-13 Statue of Liberty (1984)", 
+                   "US-14 Yosemite National Park (1984)", 
+                   "US-15 Chaco Culture (1987)", 
+                   "US-16 Hawaii Volcanoes National Park (1987)", 
+                   "US-17 Monticello and the University of Virginia in Charlottesville (1987)", 
+                   "US-18 Taos Pueblo (1992)", 
+                   "US-19 Carlsbad Caverns National Park (1995)", 
+                   "US-20 Waterton Glacier International Peace Park (1995)", 
+                   "US-21 Papahānaumokuākea (2010)", 
+                   "US-22 Monumental Earthworks of Poverty Point (2014)", 
+                   "US-23 San Antonio Missions (2015)", 
+                   "US-24 The 20th-Century Architecture of Frank Lloyd Wright (2019)", 
+                   "US-25 Hopewell Ceremonial Earthworks (2023)", 
+                   "US-26 Moravian Church Settlement (2024)"]
+},
+{
+        "type": "Uruguay",
+        "values": ["UY-01 Historic Quarter of the City of Colonia del Sacramento (1995)", 
+                   "UY-02 Fray Bentos Industrial Landscape (2015)", 
+                   "UY-03 The work of engineer Eladio Dieste: Church of Atlántida (2021)"]
+},
+{
+        "type": "Uzbekistan",
+        "values": ["UZ-01 Itchan Kala (1990)", 
+                   "UZ-02 Historic Centre of Bukhara (1993)", 
+                   "UZ-03 Historic Centre of Shakhrisyabz (2000)", 
+                   "UZ-04 Samarkand – Crossroad of Cultures (2001)", 
+                   "UZ-05 Western Tien-Shan (2016)", 
+                   "UZ-06 Cold Winter Deserts of Turan (2023)", 
+                   "UZ-07 Silk Roads: Zarafshan-Karakum Corridor (2023)"]
+},
+{
+        "type": "Vanuatu",
+        "values": ["VU-01 Chief Roi Mata’s Domain (2008)"]
+},
+{
+        "type": "Venezuela (Bolivarian Republic of)",
+        "values": ["VE-01 Coro and its Port (1993)", 
+                   "VE-02 Canaima National Park (1994)", 
+                   "VE-03 Ciudad Universitaria de Caracas (2000)"]
+},
+{
+        "type": "Viet Nam",
+        "values": ["VN-01 Complex of Hué Monuments (1993)", 
+                   "VN-02 Ha Long Bay (1994)", 
+                   "VN-03 Hoi An Ancient Town (1999)", 
+                   "VN-04 My Son Sanctuary (1999)", 
+                   "VN-05 Phong Nha-Ke Bang National Park (2003)", 
+                   "VN-06 Central Sector of the Imperial Citadel of Thang Long - Hanoi (2010)", 
+                   "VN-07 Citadel of the Ho Dynasty (2011)", 
+                   "VN-08 Trang An Landscape Complex (2014)"]
+},
+{
+        "type": "Yemen",
+        "values": ["YE-01 Old Walled City of Shibam (1982)", 
+                   "YE-02 Old City of Sana'a (1986)", 
+                   "YE-03 Historic Town of Zabid (1993)", 
+                   "YE-04 Socotra Archipelago (2008)", 
+                   "YE-05 Landmarks of the Ancient Kingdom of Saba, Marib (2023)"]
+},
+{
+        "type": "Zimbabwe",
+        "values": ["ZM-01 Mosi-oa-Tunya / Victoria Falls (1989)", 
+                   "ZW-01 Mana Pools National Park, Sapi and Chewore Safari Areas (1984)", 
+                   "ZW-02 Great Zimbabwe National Monument (1986)", 
+                   "ZW-03 Khami Ruins National Monument (1986)", 
+                   "ZW-04 Mosi-oa-Tunya / Victoria Falls (1989)", 
+                   "ZW-05 Matobo Hills (2003)"]
+},
 
 
 
