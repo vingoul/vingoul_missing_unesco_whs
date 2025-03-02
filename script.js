@@ -1624,7 +1624,7 @@ var json = [
 {
         "type": "Tajikistan",
         "values": ["TJ-01 Proto-urban Site of Sarazm (2010)",
-        "values": ["TJ-02 Tajik National Park (Mountains of the Pamirs) (2013)", 
+                   "TJ-02 Tajik National Park (Mountains of the Pamirs) (2013)", 
                    "TJ-03 Silk Roads: Zarafshan-Karakum Corridor (2023)", 
                    "TJ-04 Tugay forests of the Tigrovaya Balka Nature Reserve (2023)"]
 },
