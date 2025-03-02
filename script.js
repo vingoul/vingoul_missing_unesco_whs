@@ -1414,6 +1414,220 @@ var json = [
         "values": ["RW-01 Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero (2023)", 
                    "RW-02 Nyungwe National Park (2023)"]
 },
+{
+        "type": "Saint Kitts and Nevis",
+        "values": ["KN-01 Brimstone Hill Fortress National Park (1999)"]
+},
+{
+        "type": "Saint Lucia",
+        "values": ["LC-01 Pitons Management Area (2004)"]
+},
+{
+        "type": "San Marino",
+        "values": ["SM-01 San Marino Historic Centre and Mount Titano (2008)"]
+},
+{
+        "type": "Saudi Arabia",
+        "values": ["SA-01 Al-Hijr Archaeological Site (Madâin Sâlih) (2008)", 
+                   "SA-02 At-Turaif District in ad-Dir'iyah (2010)", 
+                   "SA-03 Historic Jeddah, the Gate to Makkah (2014)", 
+                   "SA-04 Rock Art in the Hail Region of Saudi Arabia (2015)", 
+                   "SA-05 Al-Ahsa Oasis, an Evolving Cultural Landscape (2018)", 
+                   "SA-06 Ḥimā Cultural Area (2021)", 
+                   "SA-07 ‘Uruq Bani Ma’arid (2023)", 
+                   "SA-08 The Cultural Landscape of Al-Faw Archaeological Area (2024)"]
+},
+{
+        "type": "Senegal",
+        "values": ["SN-01 Island of Gorée (1978)", 
+                   "SN-02 Niokolo-Koba National Park (1981)", 
+                   "SN-03 Djoudj National Bird Sanctuary (1981)", 
+                   "SN-04 Island of Saint-Louis (2000)", 
+                   "SN-05 Stone Circles of Senegambia (2006)", 
+                   "SN-06 Saloum Delta (2011)", 
+                   "SN-07 Bassari Country: Bassari, Fula and Bedik Cultural Landscapes (2012)"]
+},
+{
+        "type": "Serbia",
+        "values": ["RS-01 Stari Ras and Sopoćani (1979)", 
+                   "RS-02 Studenica Monastery (1986)", 
+                   "RS-03 Medieval Monuments in Kosovo (2004)", 
+                   "RS-04 Gamzigrad-Romuliana, Palace of Galerius (2007)", 
+                   "RS-05 Stećci Medieval Tombstones Graveyards (2016)"]
+},
+{
+        "type": "Seychelles",
+        "values": ["SC-01 Aldabra Atoll (1982)", 
+                   "SC-02 Vallée de Mai Nature Reserve (1983)"]
+},
+{
+        "type": "Singapore",
+        "values": ["SG-01 Singapore Botanical Gardens (2015)"]
+},
+{
+        "type": "Slovakia",
+        "values": ["SK-01 Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity (1993)", 
+                   "SK-02 Levoča, Spišský Hrad and the Associated Cultural Monuments (1993)", 
+                   "SK-03 Vlkolínec (1993)", 
+                   "SK-04 Caves of Aggtelek Karst and Slovak Karst (1995)", 
+                   "SK-05 Bardejov Town Conservation Reserve (2000)", 
+                   "SK-06 Primeval Beech Forests of the Carpathians and the Ancient Beech Forests of Germany (2007)", 
+                   "SK-07 Wooden Churches of the Slovak part of the Carpathian Mountain Area (2008)", 
+                   "SK-08 Frontiers of the Roman Empire – The Danube Limes (Western Segment) (2021)"]
+},
+{
+        "type": "Slovenia",
+        "values": ["SI-01 Škocjan Caves (1986)", 
+                   "SI-02 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)", 
+                   "SI-03 Prehistoric Pile dwellings around the Alps (2011)", 
+                   "SI-04 Heritage of Mercury. Almadén and Idrija (2012)", 
+                   "SI-05 The works of Jože Plečnik in Ljubljana – Human Centred Urban Design (2021)"]
+},
+{
+        "type": "Solomon Islands",
+        "values": ["SB-01 East Rennell (1998)"]
+},
+{
+        "type": "South Africa",
+        "values": ["ZA-01 Fossil Hominid Sites of South Africa (1999)", 
+                   "ZA-02 iSimangaliso Wetland Park (1999)", 
+                   "ZA-03 Robben Island (1999)", 
+                   "ZA-04 Maloti-Drakensberg Park (2000)", 
+                   "ZA-05 Mapungubwe Cultural Landscape (2003)", 
+                   "ZA-06 Cape Floral Region Protected Areas (2004)", 
+                   "ZA-07 Vredefort Dome (2005)", 
+                   "ZA-08 Richtersveld Cultural and Botanical Landscape (2007)", 
+                   "ZA-09 ǂKhomani Cultural Landscape (2017)", 
+                   "ZA-10 Barberton Makhonjwa Mountains (2018)", 
+                   "ZA-11 Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites (2024)", 
+                   "ZA-12 The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa (2024)"]
+},
+{
+        "type": "Spain",
+        "values": ["ES-01 Alhambra, Generalife and Albayzín, Granada (1984)", 
+                   "ES-02 Burgos Cathedral (1984)", 
+                   "ES-03 Historic Centre of Cordoba (1984)", 
+                   "ES-04 Monastery and Site of the Escurial, Madrid (1984)", 
+                   "ES-05 Works of Antoni Gaudí (1984)", 
+                   "ES-06 Cave of Altamira and Paleolithic Cave Art of Northern Spain (1985)", 
+                   "ES-07 Monuments of Oviedo and the Kingdom of the Asturias (1985)", 
+                   "ES-08 Old Town of Ávila with its Extra-Muros Churches (1985)", 
+                   "ES-09 Old Town of Segovia and its Aqueduct (1985)", 
+                   "ES-10 Santiago de Compostela (Old Town) (1985)", 
+                   "ES-11 Garajonay National Park (1986)", 
+                   "ES-12 Historic City of Toledo (1986)", 
+                   "ES-13 Mudejar Architecture of Aragon (1986)", 
+                   "ES-14 Old Town of Cáceres (1986)", 
+                   "ES-15 Cathedral, Alcázar and Archivo de Indias in Seville (1987)", 
+                   "ES-16 Old City of Salamanca (1988)", 
+                   "ES-17 Poblet Monastery (1991)", 
+                   "ES-18 Archaeological Ensemble of Mérida (1993)", 
+                   "ES-19 Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain (1993)", 
+                   "ES-20 Royal Monastery of Santa María de Guadalupe (1993)", 
+                   "ES-21 Doñana National Park (1994)", 
+                   "ES-22 Historic Walled Town of Cuenca (1996)", 
+                   "ES-23 La Lonja de la Seda de Valencia (1996)", 
+                   "ES-24 Las Médulas (1997)", 
+                   "ES-25 Palau de la Música Catalana and Hospital de Sant Pau, Barcelona (1997)", 
+                   "ES-26 Pyrénées - Mont Perdu (1997)", 
+                   "ES-27 San Millán Yuso and Suso Monasteries (1997)", 
+                   "ES-28 Prehistoric Rock Art Sites in the Côa Valley and Siega Verde (1998)", 
+                   "ES-29 Rock Art of the Mediterranean Basin on the Iberian Peninsula (1998)", 
+                   "ES-30 University and Historic Precinct of Alcalá de Henares (1998)", 
+                   "ES-31 Ibiza, Biodiversity and Culture (1999)", 
+                   "ES-32 San Cristóbal de La Laguna (1999)", 
+                   "ES-33 Archaeological Ensemble of Tárraco (2000)", 
+                   "ES-34 Archaeological Site of Atapuerca (2000)", 
+                   "ES-35 Catalan Romanesque Churches of the Vall de Boí (2000)", 
+                   "ES-36 Palmeral of Elche (2000)", 
+                   "ES-37 Roman Walls of Lugo (2000)", 
+                   "ES-38 Aranjuez Cultural Landscape (2001)", 
+                   "ES-39 Renaissance Monumental Ensembles of Úbeda and Baeza (2003)", 
+                   "ES-40 Vizcaya Bridge (2006)", 
+                   "ES-41 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)", 
+                   "ES-42 Teide National Park (2007)", 
+                   "ES-43 Tower of Hercules (2009)", 
+                   "ES-44 Cultural Landscape of the Serra de Tramuntana (2011)", 
+                   "ES-45 Heritage of Mercury. Almadén and Idrija (2012)", 
+                   "ES-46 Antequera Dolmens Site (2016)", 
+                   "ES-47 Caliphate City of Medina Azahara (2018)", 
+                   "ES-48 Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape (2019)", 
+                   "ES-49 Paseo del Prado and Buen Retiro, a landscape of Arts and Sciences (2021)", 
+                   "ES-50 Prehistoric Sites of Talayotic Menorca (2023)"]
+},
+{
+        "type": "Sri Lanka",
+        "values": ["LS-01 Ancient City of Polonnaruwa (1982)", 
+                   "LS-02 Ancient City of Sigiriya (1982)", 
+                   "LS-03 Sacred City of Anuradhapura (1982)", 
+                   "LS-04 Old Town of Galle and its Fortifications (1988)", 
+                   "LS-05 Sacred City of Kandy (1988)", 
+                   "LS-06 Sinharaja Forest Reserve (1988)", 
+                   "LS-07 Golden Temple of Dambulla (Rangiri Dambulla Cave Temple) (1991)", 
+                   "LS-08 Central Highlands of Sri Lanka (2010)"]
+},
+{
+        "type": "Sudan",
+        "values": ["SD-01 Gebel Barkal and the Sites of the Napatan Region (2003)", 
+                   "SD-02 Archaeological Sites of the Island of Meroe (2011)", 
+                   "SD-03 Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park (2016)"]
+},
+{
+        "type": "Suriname",
+        "values": ["SR-01 Central Suriname Nature Reserve (2000)", 
+                   "SR-02 Historic Inner City of Paramaribo (2002)", 
+                   "SR-03 Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery (2023)"]
+},
+{
+        "type": "Sweden",
+        "values": ["SE-01 Royal Domain of Drottningholm (1991)", 
+                   "SE-02 Birka and Hovgården (1993)", 
+                   "SE-03 Engelsberg Ironworks (1993)", 
+                   "SE-04 Rock Carvings in Tanum (1994)", 
+                   "SE-05 Skogskyrkogården (1994)", 
+                   "SE-06 Hanseatic Town of Visby (1995)", 
+                   "SE-07 Church Town of Gammelstad, Luleå (1996)", 
+                   "SE-08 Laponian Area (1996)", 
+                   "SE-09 Naval Port of Karlskrona (1998)", 
+                   "SE-10 Agricultural Landscape of Southern Öland (2000)", 
+                   "SE-11 High Coast / Kvarken Archipelago (2000)", 
+                   "SE-12 Mining Area of the Great Copper Mountain in Falun (2001)", 
+                   "SE-13 Grimeton Radio Station, Varberg (2004)", 
+                   "SE-14 Struve Geodetic Arc (2005)", 
+                   "SE-15 Decorated Farmhouses of Hälsingland (2012)"]
+},
+{
+        "type": "Switzerland",
+        "values": [" CH-01 Abbey of St Gall (1983)", 
+                   "CH-02 Benedictine Convent of St John at Müstair (1983)", 
+                   "CH-03 Old City of Berne (1983)", 
+                   "CH-04 Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona (2000)", 
+                   "CH-05 Swiss Alps Jungfrau-Aletsch (2001)", 
+                   "CH-06 Monte San Giorgio (2003)", 
+                   "CH-07 Lavaux, Vineyard Terraces (2007)", 
+                   "CH-08 Rhaetian Railway in the Albula / Bernina Landscapes (2008)", 
+                   "CH-09 Swiss Tectonic Arena Sardona (2008)", 
+                   "CH-10 La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning (2009)", 
+                   "CH-11 Prehistoric Pile dwellings around the Alps (2011)", 
+                   "CH-12 The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (2016)", 
+                   "CH-13 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2021)"]
+},
+{
+        "type": "Syrian Arab Republic",
+        "values": ["SY-01 Ancient City of Damascus (1979)", 
+                   "SY-02 Ancient City of Bosra (1980)", 
+                   "SY-03 Site of Palmyra (1980)", 
+                   "SY-04 Ancient City of Aleppo (1986)", 
+                   "SY-05 Crac des Chevaliers and Qal’at Salah El-Din (2006)", 
+                   "SY-06 Ancient Villages of Northern Syria (2011)"]
+},
+{
+        "type": "Tajikistan",
+        "values": ["TJ-01 Proto-urban Site of Sarazm (2010)",
+        "values": ["TJ-02 Tajik National Park (Mountains of the Pamirs) (2013)", 
+                   "TJ-03 Silk Roads: Zarafshan-Karakum Corridor (2023)", 
+                   "TJ-04 Tugay forests of the Tigrovaya Balka Nature Reserve (2023)"]
+},
 
 
 
