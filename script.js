@@ -906,6 +906,323 @@ var json = [
                    "IT-59 Evaporitic Karst and Caves of Northern Apennines (2023)", 
                    "IT-60 Via Appia. Regina Viarum (2024)"]
 },
+    {
+        "type": "Jamaica",
+        "values": ["JM-01 Blue and John Crow Mountains (2015)"]
+},
+{
+        "type": "Japan",
+        "values": ["JP-01 Buddhist Monuments in the Horyu-ji Area (1993)", 
+                   "JP-02 Himeji-jo (1993)", 
+                   "JP-03 Shirakami-Sanchi (1993)", 
+                   "JP-04 Yakushima (1993)", 
+                   "JP-05 Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities) (1994)", 
+                   "JP-06 Historic Villages of Shirakawa-go and Gokayama (1995)", 
+                   "JP-07 Hiroshima Peace Memorial (Genbaku Dome) (1996)", 
+                   "JP-08 Itsukushima Shinto Shrine (1996)", 
+                   "JP-09 Historic Monuments of Ancient Nara (1998)", 
+                   "JP-10 Shrines and Temples of Nikko (1999)", 
+                   "JP-11 Gusuku Sites and Related Properties of the Kingdom of Ryukyu (2000)", 
+                   "JP-12 Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (2004)", 
+                   "JP-13 Shiretoko (2005)", 
+                   "JP-14 Iwami Ginzan Silver Mine and its Cultural Landscape (2007)", 
+                   "JP-15 Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land (2011)", 
+                   "JP-16 Ogasawara Islands (2011)", 
+                   "JP-17 Fujisan, sacred place and source of artistic inspiration (2013)", 
+                   "JP-18 Tomioka Silk Mill and Related Sites (2014)", 
+                   "JP-19 Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining (2015)", 
+                   "JP-20 The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (2016)", 
+                   "JP-21 Sacred Island of Okinoshima and Associated Sites in the Munakata Region (2017)", 
+                   "JP-22 Hidden Christian Sites in the Nagasaki Region (2018)", 
+                   "JP-23 Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan (2019)", 
+                   "JP-24 Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island (2021)", 
+                   "JP-25 Jomon Prehistoric Sites in Northern Japan (2021)", 
+                   "JP-26 Sado Island Gold Mines (2024)"]
+},
+{
+        "type": "Jerusalem (Site proposed by Jordan)",
+        "values": ["JE-01 Old City of Jerusalem and its Walls (1981)"]
+},
+{
+        "type": "Jordan",
+        "values": ["JO-01 Petra (1985)", 
+                   "JO-02 Quseir Amra (1985)", 
+                   "JO-03 Um er-Rasas (Kastrom Mefa'a) (2004)", 
+                   "JO-04 Wadi Rum Protected Area (2011)", 
+                   "JO-05 Baptism Site Bethany Beyond the Jordan (Al-Maghtas) (2015)", 
+                   "JO-06 As-Salt - The Place of Tolerance and Urban Hospitality (2021)", 
+                   "JO-07 Umm Al-Jimāl (2024)"]
+},
+{
+        "type": "Kazakhstan",
+        "values": ["KZ-01 Mausoleum of Khoja Ahmed Yasawi (2003)", 
+                   "KZ-02 Petroglyphs within the Archaeological Landscape of Tamgaly (2004)", 
+                   "KZ-03 Saryarka – Steppe and Lakes of Northern Kazakhstan (2008)", 
+                   "KZ-04 Silk Roads: the Routes Network of Chang'an-Tianshan Corridor (2014)", 
+                   "KZ-05 Western Tien-Shan (2016)", 
+                   "KZ-06 Cold Winter Deserts of Turan (2023)"]
+},
+{
+        "type": "Kenya",
+        "values": ["KE-01 Lake Turkana National Parks (1997)", 
+                   "KE-02 Mount Kenya National Park/Natural Forest (1997)", 
+                   "KE-03 Lamu Old Town (2001)", 
+                   "KE-04 Sacred Mijikenda Kaya Forests (2008)", 
+                   "KE-05 Fort Jesus, Mombasa (2011)", 
+                   "KE-06 Kenya Lake System in the Great Rift Valley (2011)", 
+                   "KE-07 Thimlich Ohinga Archaeological Site (2018)", 
+                   "KE-08 The Historic Town and Archaeological Site of Gedi (2024)"]
+},
+{
+        "type": "Kiribati",
+        "values": ["KI-01 Phoenix Islands Protected Area (2010)"]
+},
+
+
+
+{
+        "type": "Kyrgyzstan",
+        "values": ["KG-01 Sulaiman-Too Sacred Mountain (2009)", 
+                   "KG-02 Silk Roads: the Routes Network of Chang'an-Tianshan Corridor (2014)", 
+                   "KG-03 Western Tien-Shan (2016)"]
+},
+{
+        "type": "Lao People's Democratic Republic",
+        "values": ["LA-01 Town of Luang Prabang (1995)", 
+                   "LA-02 Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape (2001)", 
+                   "LA-03 Megalithic Jar Sites in Xiengkhuang – Plain of Jars (2019)"]
+},
+{
+        "type": "Latvia",
+        "values": ["LV-01 Historic Centre of Riga (1997)", 
+                   "LV-02 Struve Geodetic Arc (2005)", 
+                   "LV-03 Old town of Kuldīga (2023)"]
+},
+{
+        "type": "Lebanon",
+        "values": ["LB-01 Anjar (1984)", 
+                   "LB-02 Baalbek (1984)", 
+                   "LB-03 Byblos (1984)", 
+                   "LB-04 Tyre (1984)", 
+                   "LB-05 Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab) (1998)", 
+                   "LB-06 Rachid Karami International Fair-Tripoli (2023)"]
+},
+{
+        "type": "Lesotho",
+        "values": ["LS-01 Maloti-Drakensberg Park (2000)"]
+},
+{
+        "type": "Libya",
+        "values": ["LY-01 Archaeological Site of Cyrene (1982)", 
+                   "LY-02 Archaeological Site of Leptis Magna (1982)", 
+                   "LY-03 Archaeological Site of Sabratha (1982)", 
+                   "LY-04 Rock-Art Sites of Tadrart Acacus (1985)", 
+                   "LY-05 Old Town of Ghadamès (1986)"]
+},
+{
+        "type": "Lithuania",
+        "values": ["LT-01 Vilnius Historic Centre (1994)", 
+                   "LT-02 Curonian Spit (2000)", 
+                   "LT-03 Kernavė Archaeological Site (Cultural Reserve of Kernavė) (2004)", 
+                   "LT-04 Struve Geodetic Arc (2005)", 
+                   "LT-05 Modernist Kaunas: Architecture of Optimism, 1919-1939 (2023)"]
+},
+{
+        "type": "Luxembourg",
+        "values": ["LU-01 City of Luxembourg: its Old Quarters and Fortifications (1994)"]
+},
+{
+        "type": "Madagascar",
+        "values": ["MG-01 Andrefana Dry Forests (1990)", 
+                   "MG-02 Royal Hill of Ambohimanga (2001)", 
+                   "MG-03 Rainforests of the Atsinanana (2007)"]
+},
+{
+        "type": "Malawi",
+        "values": ["MW-01 Lake Malawi National Park (1984)", 
+                   "MW-02 Chongoni Rock-Art Area (2006)"]
+},
+{
+        "type": "Malaysia",
+        "values": ["MY-01 Gunung Mulu National Park (2000)", 
+                   "MY-02 Kinabalu Park (2000)", 
+                   "MY-03 Melaka and George Town, Historic Cities of the Straits of Malacca (2008)", 
+                   "MY-04 Archaeological Heritage of the Lenggong Valley (2012)", 
+                   "MY-05 The Archaeological Heritage of Niah National Park’s Caves Complex (2024)"]
+},
+{
+        "type": "Mali",
+        "values": ["ML-01 Old Towns of Djenné (1988)", 
+                   "ML-02 Timbuktu (1988)", 
+                   "ML-03 Cliff of Bandiagara (Land of the Dogons) (1989)", 
+                   "ML-04 Tomb of Askia (2004)"]
+},
+{
+        "type": "Malta",
+        "values": ["MT-01 City of Valletta (1980)", 
+                   "MT-02 Megalithic Temples of Malta (1980)", 
+                   "MT-03 Ħal Saflieni Hypogeum (1980)"]
+},
+{
+        "type": "Marshall Islands",
+        "values": ["MH-01 Bikini Atoll Nuclear Test Site (2010)"]
+},
+{
+        "type": "Mauritania",
+        "values": ["MR-01 Banc d'Arguin National Park (1989)", 
+                   "MR-02 Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata (1996)"]
+},
+{
+        "type": "Mauritius",
+        "values": ["MU-01 Aapravasi Ghat (2006)", 
+                   "MU-02 Le Morne Cultural Landscape (2008)"]
+},
+{
+        "type": "Mexico",
+        "values": ["MX-01 Historic Centre of Mexico City and Xochimilco (1987)", 
+                   "MX-02 Historic Centre of Oaxaca and Archaeological Site of Monte Albán (1987)", 
+                   "MX-03 Historic Centre of Puebla (1987)", 
+                   "MX-04 Pre-Hispanic City and National Park of Palenque (1987)", 
+                   "MX-05 Pre-Hispanic City of Teotihuacan (1987)", 
+                   "MX-06 Sian Ka'an (1987)", 
+                   "MX-07 Historic Town of Guanajuato and Adjacent Mines (1988)", 
+                   "MX-08 Pre-Hispanic City of Chichen-Itza (1988)", 
+                   "MX-09 Historic Centre of Morelia (1991)", 
+                   "MX-10 El Tajin, Pre-Hispanic City (1992)", 
+                   "MX-11 Historic Centre of Zacatecas (1993)", 
+                   "MX-12 Rock Paintings of the Sierra de San Francisco (1993)", 
+                   "MX-13 Whale Sanctuary of El Vizcaino (1993)", 
+                   "MX-14 Earliest 16th-Century Monasteries on the Slopes of Popocatepetl (1994)", 
+                   "MX-15 Historic Monuments Zone of Querétaro (1996)", 
+                   "MX-16 Pre-Hispanic Town of Uxmal (1996)", 
+                   "MX-17 Hospicio Cabañas, Guadalajara (1997)", 
+                   "MX-18 Archaeological Zone of Paquimé, Casas Grandes (1998)", 
+                   "MX-19 Historic Monuments Zone of Tlacotalpan (1998)", 
+                   "MX-20 Archaeological Monuments Zone of Xochicalco (1999)", 
+                   "MX-21 Historic Fortified Town of Campeche (1999)", 
+                   "MX-22 Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche (2002)", 
+                   "MX-23 Franciscan Missions in the Sierra Gorda of Querétaro (2003)", 
+                   "MX-24 Luis Barragán House and Studio (2004)", 
+                   "MX-25 Islands and Protected Areas of the Gulf of California (2005)", 
+                   "MX-26 Agave Landscape and Ancient Industrial Facilities of Tequila (2006)", 
+                   "MX-27 Central University City Campus of the Universidad Nacional Autónoma de México (UNAM) (2007)", 
+                   "MX-28 Monarch Butterfly Biosphere Reserve (2008)", 
+                   "MX-29 Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco (2008)", 
+                   "MX-30 Camino Real de Tierra Adentro (2010)", 
+                   "MX-31 Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca (2010)", 
+                   "MX-32 El Pinacate and Gran Desierto de Altar Biosphere Reserve (2013)", 
+                   "MX-33 Aqueduct of Padre Tembleque Hydraulic System (2015)", 
+                   "MX-34 Archipiélago de Revillagigedo (2016)", 
+                   "MX-35 Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica (2018)"]
+},
+{
+        "type": "Micronesia (Federated States of)",
+        "values": ["FM-01 Nan Madol: Ceremonial Centre of Eastern Micronesia (2016)"]
+},
+{
+        "type": "Mongolia",
+        "values": ["MN-01 Uvs Nuur Basin (2003)", 
+                   "MN-02 Orkhon Valley Cultural Landscape (2004)", 
+                   "MN-03 Petroglyphic Complexes of the Mongolian Altai (2011)", 
+                   "MN-04 Great Burkhan Khaldun Mountain and its surrounding sacred landscape (2015)", 
+                   "MN-05 Landscapes of Dauria (2017)", 
+                   "MN-06 Deer Stone Monuments and Related Bronze Age Sites (2023)"]
+},
+{
+        "type": "Montenegro",
+        "values": ["ME-01 Natural and Culturo-Historical Region of Kotor (1979)", 
+                   "ME-02 Durmitor National Park (1980)", 
+                   "ME-03 Stećci Medieval Tombstones Graveyards (2016)", 
+                   "ME-04 Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar (2017)"]
+},
+{
+        "type": "Morocco",
+        "values": ["MA-01 Medina of Fez (1981)", 
+                   "MA-02 Medina of Marrakesh (1985)", 
+                   "MA-03 Ksar of Ait-Ben-Haddou (1987)", 
+                   "MA-04 Historic City of Meknes (1996)", 
+                   "MA-05 Archaeological Site of Volubilis (1997)", 
+                   "MA-06 Medina of Tétouan (formerly known as Titawin) (1997)", 
+                   "MA-07 Medina of Essaouira (formerly Mogador) (2001)", 
+                   "MA-08 Portuguese City of Mazagan (El Jadida) (2004)", 
+                   "MA-09 Rabat, Modern Capital and Historic City: a Shared Heritage (2012)"]
+},
+{
+        "type": "Mozambique",
+        "values": ["MZ-01 Island of Mozambique (1991)"]
+},
+{
+        "type": "Myanmar",
+        "values": ["MM-01 Pyu Ancient Cities (2014)", 
+                   "MM-02 Bagan (2019)"]
+},
+{
+        "type": "Namibia",
+        "values": ["NA-01 Twyfelfontein or /Ui-//aes (2007)", 
+                   "NA-02 Namib Sand Sea (2013)"]
+},
+{
+        "type": "Nepal",
+        "values": ["NP-01 Kathmandu Valley (1979)", 
+                   "NP-02 Sagarmatha National Park (1979)", 
+                   "NP-03 Chitwan National Park (1984)", 
+                   "NP-04 Lumbini, the Birthplace of the Lord Buddha (1997)"]
+},
+{
+        "type": "Netherlands",
+        "values": ["NL-01 Schokland and Surroundings (1995)", 
+                   "NL-02 Defence Line of Amsterdam (1996)", 
+                   "NL-03 Historic Area of Willemstad, Inner City and Harbour, Curaçao (1997)", 
+                   "NL-04 Mill Network at Kinderdijk-Elshout (1997)", 
+                   "NL-05 Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station) (1998)", 
+                   "NL-06 Droogmakerij de Beemster (Beemster Polder) (1999)", 
+                   "NL-07 Rietveld Schröderhuis (Rietveld Schröder House) (2000)", 
+                   "NL-08 Wadden Sea (2009)", 
+                   "NL-09 Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht (2010)", 
+                   "NL-10 Van Nellefabriek (2014)", 
+                   "NL-11 Colonies of Benevolence (2021)", 
+                   "NL-12 Frontiers of the Roman Empire – The Lower German Limes (2021)", 
+                   "NL-13 Eisinga Planetarium in Franeker (2023)"]
+},
+{
+        "type": "New Zealand",
+        "values": ["NZ-01 Te Wahipounamu – South West New Zealand (1990)", 
+                   "NZ-02 Tongariro National Park (1990)", 
+                   "NZ-03 New Zealand Sub-Antarctic Islands (1998)"]
+},
+{
+        "type": "Nicaragua",
+        "values": ["NI-01 Ruins of León Viejo (2000)", 
+                   "NI-02 León Cathedral (2011)"]
+},
+{
+        "type": "Niger",
+        "values": ["NE-01 Air and Ténéré Natural Reserves (1991)", 
+                   "NE-02 W National Park of Niger/W-Arly-Pendjari Complex (1996)", 
+                   "NE-03 Historic Centre of Agadez (2013)"]
+},
+{
+        "type": "Nigeria",
+        "values": ["NG-01 Sukur Cultural Landscape (1999)", 
+                   "NG-02 Osun-Osogbo Sacred Grove (2005)"]
+},
+{
+        "type": "North Macedonia",
+        "values": ["MK-01 Natural and Cultural Heritage of the Ohrid region (1979)", 
+                   "MK-02 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2021)"]
+},
+{
+        "type": "Norway",
+        "values": ["NO-01 Bryggen (1979)", 
+                   "NO-02 Urnes Stave Church (1979)", 
+                   "NO-03 Røros Mining Town and the Circumference (1980)", 
+                   "NO-04 Rock Art of Alta (1985)", 
+                   "NO-05 Vegaøyan -- The Vega Archipelago (2004)", 
+                   "NO-06 Struve Geodetic Arc (2005)", 
+                   "NO-07 West Norwegian Fjords – Geirangerfjord and Nærøyfjord (2005)", 
+                   "NO-08 Rjukan-Notodden Industrial Heritage Site (2015)"]
+},
+
 
 
     {
