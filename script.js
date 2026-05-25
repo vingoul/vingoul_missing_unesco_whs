@@ -1,7 +1,8 @@
 var json = [
     {
         "type": "Afghanistan",
-        "values": ["AF-01 Minaret and Archaeological Remains of Jam (2002)", "AF-02 Cultural Landscape and Archaeological Remains of the Bamiyan Valley (2003)"]
+        "values": ["AF-01 Minaret and Archaeological Remains of Jam (2002)", 
+                   "AF-02 Cultural Landscape and Archaeological Remains of the Bamiyan Valley (2003)"]
     },
     {
         "type": "Albania",
@@ -73,7 +74,6 @@ var json = [
                    "AU-14 Greater Blue Mountains Area (2000)", 
                    "AU-15 Purnululu National Park (2003)", 
                    "AU-16 Royal Exhibition Building and Carlton Gardens (2004)", 
-                   "AU-17 Sydney Opera House (2007)", 
                    "AU-18 Australian Convict Sites (2010)", 
                    "AU-19 Ningaloo Coast (2011)", 
                    "AU-20 Budj Bim Cultural Landscape (2019)"]
@@ -81,12 +81,10 @@ var json = [
     {
         "type": "Austria",
         "values": ["AT-01 Historic Centre of the City of Salzburg (1996)", 
-                   "AT-02 Palace and Gardens of Schönbrunn (1996)", 
                    "AT-03 Hallstatt-Dachstein / Salzkammergut Cultural Landscape (1997)", 
                    "AT-04 Semmering Railway (1998)", 
                    "AT-05 City of Graz – Historic Centre and Schloss Eggenberg (1999)", 
                    "AT-06 Wachau Cultural Landscape (2000)", 
-                   "AT-07 Historic Centre of Vienna (2001)", 
                    "AT-08 Fertö / Neusiedlersee Cultural Landscape (2001)", 
                    "AT-09 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)", 
                    "AT-10 Prehistoric Pile dwellings around the Alps (2011)", 
@@ -107,12 +105,7 @@ var json = [
                    "BH-02 Pearling, Testimony of an Island Economy (2012)", 
                    "BH-03 Dilmun Burial Mounds (2019)"]
  },
-{
-        "type": "Bangladesh",
-        "values": ["BD-01 Historic Mosque City of Bagerhat (1985)", 
-                   "BD-02 Ruins of the Buddhist Vihara at Paharpur (1985)", 
-                   "BD-03 The Sundarbans (1997)"]    
-},
+
 {
         "type": "Barbados",
         "values": ["BB-01 Historic Bridgetown and its Garrison (2011)"]
@@ -129,14 +122,12 @@ var json = [
         "values": ["BE-01 Flemish Béguinages (1998)", 
                    "BE-02 La Grand-Place, Brussels (1998)", 
                    "BE-03 The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut) (1998)", 
-                   "BE-04 Belfries of Belgium and France (1999)", 
                    "BE-05 Historic Centre of Brugge (2000)", 
                    "BE-06 Major Town Houses of the Architect Victor Horta (Brussels) (2000)", 
                    "BE-07 Neolithic Flint Mines at Spiennes (Mons) (2000)", 
                    "BE-08 Notre-Dame Cathedral in Tournai (2000)", 
                    "BE-09 Plantin-Moretus House-Workshops-Museum Complex (2005)", 
                    "BE-10 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2007)", 
-                   "BE-11 Stoclet House (2009)", 
                    "BE-12 Major Mining Sites of Wallonia (2012)", 
                    "BE-13 The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (2016)", 
                    "BE-14 Colonies of Benevolence (2021)", 
@@ -167,7 +158,6 @@ var json = [
         "type": "Bosnia and Herzegovina",
         "values": ["BA-01 Old Bridge Area of the Old City of Mostar (2005)", 
                    "BA-02 Mehmed Paša Sokolović Bridge in Višegrad (2007)", 
-                   "BA-03 Stećci Medieval Tombstones Graveyards (2016)", 
                    "BA-04 Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (2021)", 
                    "BA-05 Vjetrenica Cave Ravno (2024)"]
 },
@@ -186,7 +176,6 @@ var json = [
                    "BR-06 Iguaçu National Park (1986)", 
                    "BR-07 Brasilia (1987)", 
                    "BR-08 Serra da Capivara National Park (1991)", 
-                   "BR-09 Historic Centre of São Luís (1997)", 
                    "BR-10 Atlantic Forest South-East Reserves (1999)", 
                    "BR-11 Discovery Coast Atlantic Forest Reserves (1999)", 
                    "BR-12 Historic Centre of the Town of Diamantina (1999)", 
@@ -206,7 +195,6 @@ var json = [
 {
         "type": "Bulgaria",
         "values": ["BG-01 Boyana Church (1979)",
-                   "BG-02 Madara Rider (1979)", 
                    "BG-03 Rock-Hewn Churches of Ivanovo (1979)", 
                    "BG-04 Thracian Tomb of Kazanlak (1979)", 
                    "BG-05 Ancient City of Nessebar (1983)", 
@@ -247,8 +235,6 @@ var json = [
                    "CA-04 Kluane  Wrangell-St. Elias  Glacier Bay  Tatshenshini-Alsek (1979)", 
                    "CA-05 Head-Smashed-In Buffalo Jump (1981)", 
                    "CA-06 SGang Gwaay (1981)", 
-                   "CA-07 Wood Buffalo National Park (1983)", 
-                   "CA-08 Canadian Rocky Mountain Parks (1984)", 
                    "CA-09 Historic District of Old Québec (1985)", 
                    "CA-10 Gros Morne National Park (1987)", 
                    "CA-11 Old Town Lunenburg (1995)", 
@@ -257,9 +243,7 @@ var json = [
                    "CA-14 Rideau Canal (2007)", 
                    "CA-15 Joggins Fossil Cliffs (2008)", 
                    "CA-16 Landscape of Grand Pré (2012)", 
-                   "CA-17 Red Bay Basque Whaling Station (2013)", 
                    "CA-18 Mistaken Point (2016)", 
-                   "CA-19 Pimachiowin Aki (2018)", 
                    "CA-20 Writing-on-Stone / Áísínai’pi (2019)", 
                    "CA-21 Anticosti (2023)", 
                    "CA-22 Tr’ondëk-Klondike (2023)"]
